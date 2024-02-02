@@ -2,5 +2,5 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse('Hello, Everyone from django application Update')
+    return HttpResponse('Hello, Everyone from django application Update from Webyops')
 
